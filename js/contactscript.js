@@ -1,5 +1,5 @@
 function sendMsg() {
-    let number = "+917876135383";
+    let number = "+918837680730";
     let name = document.getElementById('name').value;
     let email = document.getElementById('email').value;
     let subject = document.getElementById('subject').value;
